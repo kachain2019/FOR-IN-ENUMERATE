@@ -8,3 +8,4 @@
 คือผมเอาตัวอย่างของ Keyword นี้มาเพื่อให้ดูว่ามันคือการสั่งให้มันรอการทำงาน ของบาง Element ให้เสร็จก่อนแล้วให้มันทำขั้นตอนต่อไป
 
 *วิดีโอเดี๋ยวผมอัพแล้วจะมาอัพเดทนะครับ 
+https://www.youtube.com/watch?v=rdGsATgnNjk&list=PLZ6Bx61eBnB07SRw1zZR5Pad8kheKLftt&index=6
